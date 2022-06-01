@@ -1,0 +1,7 @@
+{
+    "products" :[
+        {"id":1,"name":"Thani" },
+        {"id":2,"name":"Thor"},
+        {"id":3,"name":"Marvel Boy"}
+    ]
+}
